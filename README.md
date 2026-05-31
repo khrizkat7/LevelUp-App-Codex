@@ -2,6 +2,12 @@
 
 App web pública para administrar inventario, servicio técnico, importaciones, clientes, ventas y backups de LevelUp Repair Center.
 
+## App publicada
+
+Cuando GitHub Pages termine el primer despliegue, la app estará disponible en:
+
+https://khrizkat7.github.io/LevelUp-App-Codex/
+
 ## Estado
 
 - Frontend estático en `index.html`.
